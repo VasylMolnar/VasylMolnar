@@ -28,4 +28,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
- 
+
+ ## 📊 Github Status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasylMolnar&show_icons=true&theme=transparent)
