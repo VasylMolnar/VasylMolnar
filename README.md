@@ -32,7 +32,6 @@
  ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasylMolnar&layout=compact"><p>
- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasylMolnar&show_icons=true&theme=transparent)
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=VasylMolnar"><p>
