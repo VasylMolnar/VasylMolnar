@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vasyl Molnar
+# Hi there 👋, I'm Vasyl Molnar
 
 <!--
 **VasylMolnar/VasylMolnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
